@@ -1,5 +1,5 @@
 // Liste des chemins d'accès des images d'arrière-plan
-var images = ["IMG/BG3.jpg", "IMG/BG5.jpg", "IMG/BG7.jpg", "IMG/BG9.jpg"];
+var images = ["IMG/BG1.jpg", "IMG/BG2.jpg", "IMG/BG3.jpg", "IMG/BG4.jpg", "IMG/BG5.jpg"];
 
 // Fonction pour changer l'image d'arrière-plan
 function changeBackground() {
