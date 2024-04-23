@@ -71,3 +71,15 @@ img {
     border-radius: 10px;
     margin-top: 50px;
 }
+
+.Title {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: rgb(255, 136, 0); /* Couleur orange */
+    margin-bottom: 20px; /* Espacement en bas */
+    text-transform: uppercase; /* Mettre en majuscules */
+    letter-spacing: 2px; /* Espacement entre les lettres */
+}
+
+
