@@ -101,11 +101,7 @@ table {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-caption {
-    font-size: 1.2em;
-    font-weight: bold;
-    margin-bottom: 10px;
-}
+
 
 thead {
     background-color: rgb(255, 136, 0);
@@ -130,7 +126,5 @@ tbody tr:hover {
     font-size: 20px;
 }
 
-.sub-header-title {
-    font-size: 16px;
-}
+
 
