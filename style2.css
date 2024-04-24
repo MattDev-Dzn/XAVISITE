@@ -11,6 +11,7 @@ body {
 }
 
 .container {
+    
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
@@ -49,7 +50,7 @@ nav ul li a:hover {
 
 /* Style des sections */
 section {
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 h2 {
@@ -73,6 +74,7 @@ img {
 }
 
 .Title {
+    margin-top: 20px;
     text-align: center;
     font-size: 36px;
     font-weight: bold;
@@ -81,5 +83,4 @@ img {
     text-transform: uppercase; /* Mettre en majuscules */
     letter-spacing: 2px; /* Espacement entre les lettres */
 }
-
 
